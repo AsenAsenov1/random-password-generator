@@ -20,3 +20,10 @@ def generate_pass():
 
 
 generate_pass()
+
+while True:
+    key = input("Press 'n' to exit or any other key to generate new password.\n")
+    if key == 'n':
+        break
+    generate_pass()
+
