@@ -20,4 +20,4 @@
 
 ### To execute the password generator, simply run `main.py` and press `Generate Random Password` button. 
 
-![[Pasted image 20230410180333.png]]
+![image](https://user-images.githubusercontent.com/86146020/230929199-e880506d-1e2b-4c58-b8e6-0bcc701b756e.png)
