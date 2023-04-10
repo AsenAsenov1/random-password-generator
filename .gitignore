@@ -1,0 +1,3 @@
+# Ignore following files and dirs
+./__pycache__/
+./.obsidian/

@@ -16,7 +16,10 @@ def generate_pass():
             current_char = random.choice(symbol_list)
             password += str(current_char)
     random.shuffle(password)
-    print("".join(password))
+    result = "".join(password)
+    print(result)
+    
+
 
 
 generate_pass()
